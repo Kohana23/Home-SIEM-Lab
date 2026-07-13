@@ -3,7 +3,7 @@
 A lightweight, self-hosted SIEM solution for monitoring security events, detecting threats, and visualizing security data in real-time.
 
 ## Dashboard Preview
-![image alt](https://github.com/Kohana23/Custom-SIEM-Lab/blob/main/image.png?raw=true)
+![image alt](https://github.com/Kohana23/Home-SIEM-Lab/blob/main/image.png?raw=true)
 
 
 ## 📋 Table of Contents
